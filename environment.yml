@@ -1,0 +1,12 @@
+name: torch_vision_msp_trys
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - matplotlib
+  - jupyter
+  - pytorch
+  - torchvision
+  - opencv
+  - imageio
